@@ -92,15 +92,12 @@ The goal is to extract meaningful insights about revenue, customer behavior, pro
 
 
 ---
+   
 
 ## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/NidhiDevrani/Supermarket-Sales-Analysis.git
-   ```
-2. Open the notebook in Jupyter or VS Code  
-3. Run all cells sequentially  
-4. Explore the results printed in each step
+- Download the repository as ZIP  
+- Open `Supermarket_Sales_Analysis.ipynb` in Jupyter Notebook or VS Code  
+- Run all cells to view the analysis
 
 ---
 
