@@ -4,7 +4,6 @@
 This project analyzes **supermarket sales data** using only the **Pandas** library in Python.  
 The goal is to extract meaningful insights about revenue, customer behavior, product performance, and payment trends without using any visualization or BI tools.
 
-Dataset used: [Supermarket Sales – Kaggle (faresashraf1001)](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
 
 ---
 
@@ -97,7 +96,7 @@ Dataset used: [Supermarket Sales – Kaggle (faresashraf1001)](https://www.kaggl
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/Supermarket-Sales-Analysis.git
+   git clone https://github.com/NidhiDevrani/Supermarket-Sales-Analysis.git
    ```
 2. Open the notebook in Jupyter or VS Code  
 3. Run all cells sequentially  
@@ -108,5 +107,5 @@ Dataset used: [Supermarket Sales – Kaggle (faresashraf1001)](https://www.kaggl
 ## 🧑‍💻 Author
 **Nidhi Devrani**  
 📧 [nidhidevrani01@gmail.com](mailto:nidhidevrani01@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-devrani-b79159349) | [GitHub](https://github.com/NidhiDevrani)
+🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-devrani-b79159349)
 
